@@ -1,0 +1,14 @@
+﻿{
+    "name": "sweet12",
+    "description": "xray websocket proxy on heroku",
+    "logo":"https://telegra.ph/file/53154126497c9efee453b.jpg",
+    "keywords": ["xray"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/fhskuu/sweet12",
+    "stack": "container"
+}
